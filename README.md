@@ -40,6 +40,8 @@ DreamPillow processes multi-channel audio for transmission across multiple Bluet
 - **Sample Rate Conversion**: Automatic resampling to target sample rates (default: 44.1kHz)
 - **Separate Channel Encoding**: Outputs individual channel streams for distributed playback across multiple decoder boards
 
+## Encoder System Sructure
+
 ![Sructure](Media/Structure.png)
 
 ## Install
