@@ -3,7 +3,7 @@
 
 ![GitHub Created At](https://img.shields.io/badge/Created_At-2025-orange) [![GITHUB](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com) 
 
-[![DreamPillow Demo](https://img.youtube.com/vi/8rhZtqXsF-4/maxresdefault.jpg)](https://youtu.be/8rhZtqXsF-4)
+[![DreamPillow Demo](https://img.youtube.com/vi/dCMUUlnRz4A/maxresdefault.jpg)](https://youtu.be/dCMUUlnRz4A)
 
 ## Table of Contents
 
@@ -27,9 +27,9 @@ DreamPillow processes multi-channel audio for transmission across multiple Bluet
 
 ## Video
 
-[![DreamPillow Demo](https://img.youtube.com/vi/8rhZtqXsF-4/maxresdefault.jpg)](https://youtu.be/8rhZtqXsF-4)
+[![DreamPillow Demo](https://img.youtube.com/vi/dCMUUlnRz4A/maxresdefault.jpg)](https://youtu.be/dCMUUlnRz4A)
 
-**Watch on YouTube:** [https://youtu.be/8rhZtqXsF-4](https://youtu.be/8rhZtqXsF-4)
+**Watch on YouTube:** [https://youtu.be/dCMUUlnRz4A](https://youtu.be/dCMUUlnRz4A)
 
 ## Features
 
